@@ -1,16 +1,6 @@
-* **Repository Name:** `godfred-cybersecurity-portfolio`
-* **Repository Description:** `Hands-on cybersecurity portfolio featuring network reconnaissance, vulnerability assessments, system hardening, and threat remediation labs.`
-* **Directory Path inside Repository:** `project-6-vulnerability-assessment/`
-
----
-
-### Complete GitHub `README.md` Draft (with Header Context)
-
-```markdown
 # Project #6: Vulnerability Assessment & Remediation Lab
 
-**Repository:** `godfred-cybersecurity-portfolio`  
-**Path:** `project-6-vulnerability-assessment/`  
+**Repository:** `vulnerability-assessment-lab`  
 **Description:** Hands-on vulnerability assessment, threat detection, active exploitation analysis, and host-level service remediation against a Metasploitable2 target.
 
 ---
@@ -62,8 +52,7 @@ sudo nmap -p 6667 192.168.56.101
 * **Initial Reconnaissance:** `screenshots/03-nmap-stealth-scan.png`
 * **Vulnerability Assessment:** `screenshots/04-nmap-vuln-scan.png`
 * **Post-Remediation Verification:** `screenshots/05-post-remediation-verification.png`
-* **Raw Scan Logs:** `nmap_initial_scan.txt`, `nmap_vuln_scan.txt`
-
-```
+* **Raw Scan Logs:** `nmap_initial_scan.txt`, `nmap_vuln_scan.txt
+Once committed, your page will render as a fully styled, publication-ready security report!
 
 ```
